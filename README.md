@@ -10,3 +10,8 @@ cd <you comfy dir>/custom_nodes/
 git clone https://github.com/tauraloke/ComfyUI-Unfake-Pixels/edit/main/README.md
 ```
 The re-run ComfyUI server.
+
+# Examples
+![Screenshot](./examples/example.png "Screenshot")
+![Original image](./examples/original.png "Original")
+![Pixelated image](./examples/pixelated.png "Pixelated")
