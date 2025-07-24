@@ -3,7 +3,7 @@ This repo is an lazy adaptation of the magnificent JS library [Unfake](https://g
 
 Original algorythm is described at paper ["How to tame pixel art"](https://habr.com/ru/articles/930462/) (rus) of [Jenissimo](https://habr.com/ru/users/jenissimo/).
 
-# Usage
+# Installing
 Execute:
 ```bash
 cd <you comfy dir>/custom_nodes/
@@ -11,7 +11,10 @@ git clone https://github.com/tauraloke/ComfyUI-Unfake-Pixels/edit/main/README.md
 ```
 The re-run ComfyUI server.
 
-# Examples
+# Usage
+Find node "Pixel Art Scaler (Edge-Aware Auto-Scale)" and setup its input and output as you wish.
 ![Screenshot](./examples/example.png "Screenshot")
+
+# Examples
 ![Original image](./examples/original.png "Original")
 ![Pixelated image](./examples/pixelated.png "Pixelated")
