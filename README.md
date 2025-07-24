@@ -9,7 +9,8 @@ Execute:
 cd <you comfy dir>/custom_nodes/
 git clone https://github.com/tauraloke/ComfyUI-Unfake-Pixels/edit/main/README.md
 ```
-The re-run ComfyUI server.
+Re-run ComfyUI server.
+Update your ComfyUI page in the browser.
 
 # Usage
 Find node "Pixel Art Scaler (Edge-Aware Auto-Scale)" and setup its input and output as you wish.
