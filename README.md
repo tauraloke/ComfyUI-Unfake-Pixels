@@ -10,6 +10,7 @@ cd <you comfy dir>/custom_nodes/
 git clone https://github.com/tauraloke/ComfyUI-Unfake-Pixels/edit/main/README.md
 ```
 Re-run ComfyUI server.
+
 Update your ComfyUI page in the browser.
 
 # Usage
