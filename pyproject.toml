@@ -1,0 +1,19 @@
+[project]
+name = "ComfyUI-Unfake-Pixels"
+description = "A ComfyUI node for pixel art scaling. Automatically detects the pixel scale using an edge-aware method (Sobel filter + voting on tiles) and downscales the image to that pixel size, reducing color palette."
+version = "1.0.0"
+license = { text = "MIT" }
+dependencies = [
+    "numpy",
+    "pillow",
+    "scikit-learn",
+    "scipy",
+    "torch"
+]
+
+[project.urls]
+Repository = "https://github.com/tauraloke/ComfyUI-Unfake-Pixels"
+
+[tool.comfy]
+DisplayName = "Pixel Art Scaler (Edge-Aware)"
+Icon = ""
