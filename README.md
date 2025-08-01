@@ -7,7 +7,7 @@ Original algorythm is described at paper ["How to tame pixel art"](https://habr.
 Execute:
 ```bash
 cd <you comfy dir>/custom_nodes/
-git clone https://github.com/tauraloke/ComfyUI-Unfake-Pixels/edit/main/README.md
+git clone https://github.com/tauraloke/ComfyUI-Unfake-Pixels.git
 ```
 Re-run ComfyUI server.
 
